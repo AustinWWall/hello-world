@@ -3,9 +3,17 @@
   
   </head>
   <body>
-  This is <strong>bold</strong>
-  this is <em>italic</em>
+  This is <strong>bold</strong><br>
+  this is <em>italic</em><br>
   <a href="http://www.google.com">google.com</a>
-  <Img scr="https://pbs.twimg.com/profile_images/779305023507271681/GJJhYpD2_400x400.jpg">
+  <ul>
+    <li>Item 1</li>
+    <li> Item 2</li>
+    </ul>
+  <ol>
+    <li>Item 1</li>
+    <li> Item 2</li>
+    </ol>
+  
     </body>
   </html>
